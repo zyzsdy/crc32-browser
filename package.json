@@ -1,0 +1,23 @@
+{
+  "name": "crc32-browser",
+  "version": "1.0.0",
+  "description": "Calc crc32 hash on browser. Use HTML6 and ES6.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zyzsdy/crc32-browser.git"
+  },
+  "keywords": [
+    "crc32",
+    "html5",
+    "hash"
+  ],
+  "author": "zyzsdy",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/zyzsdy/crc32-browser/issues"
+  },
+  "homepage": "https://github.com/zyzsdy/crc32-browser#readme"
+}
